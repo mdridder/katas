@@ -1,0 +1,22 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "katas repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdridder/katas.git"
+  },
+  "author": "mridder04@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdridder/katas/issues"
+  },
+  "homepage": "https://github.com/mdridder/katas#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
