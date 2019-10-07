@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mdridder/katas#readme",
   "devDependencies": {
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
   }
 }
